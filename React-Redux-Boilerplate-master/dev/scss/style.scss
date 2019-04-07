@@ -1,0 +1,22 @@
+$primary: #006690;
+$bttonColor: #4b4848;
+
+h2 {
+	color: $primary;
+}
+
+.btn {
+	color: #fff !important;
+	text-transform: uppercase;
+	background: $bttonColor;
+	padding: 5px;
+	border-radius: 5px;
+	display: inline-block;
+	border: none;
+}
+
+.hand{
+	cursor: pointer;
+}
+
+hr { margin: 3px; }
